@@ -4,3 +4,8 @@ one two three four five six
 seven eight nine ten
 
 a b c d e f g
+<<<<<<< HEAD
+=======
+
+new new new new new
+>>>>>>> 1c380311e57a4c2e4cd3985ae71b24dcbc76b183
